@@ -5,6 +5,7 @@ from components import (bar_chart,
 
 
 def create_layout(app, data):
+    heading = "adsfadf"
     return dbc.Container([
         dbc.Row([
             dbc.Col([
